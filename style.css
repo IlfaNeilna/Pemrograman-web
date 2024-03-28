@@ -1,0 +1,15 @@
+*{
+
+}
+h1{
+    color: rgb(34, 35, 36);
+}
+body{
+    background: rgb(109, 211, 169);
+}
+table{
+    border:2px solid white;
+}
+td{
+    border:2px solid white;
+}
